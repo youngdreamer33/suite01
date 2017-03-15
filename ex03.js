@@ -29,3 +29,7 @@ addition(98766, 345678);
 
 //  écrire votre code sous ce commentaire
 
+function addition(x,y) { return (x+y);
+}
+console.log(addition(6,9));
+console.log(addition(98766,345678));
